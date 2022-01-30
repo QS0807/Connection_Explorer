@@ -1,2 +1,9 @@
-# Connection_Explorer
-Display the shortest path between email sender and receiver by using graph
+# Connection Explorer
+
+
+SFML:
+    Menu: select DFS or BFS methods.
+    Text Bar: use for input numbers.
+    Button: 
+            Enter: process entered inputs. (enter key is allowed)
+            Clear: clear both input.
